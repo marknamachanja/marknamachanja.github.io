@@ -1,0 +1,10 @@
+body {
+	background-color: silver;
+}
+#who {
+	min-height: 450px;
+/*	background-image: url(../img/sun.jpeg)*/;
+	background-size: cover;
+	background-position: fill;
+	margin-top: 20px
+}
